@@ -1,0 +1,31 @@
+type: edu
+custom_name: Laplace Smoothing
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 2735
+        length: 29
+        placeholder_text: "# TODO: initialize self.probs"
+        initial_state:
+          length: 29
+          offset: 1152
+        initialized_from_dependency: false
+        encrypted_possible_answer: IXhZ9ZvKr4rku/rxJefUDonvGUm3u+LsUE/Vq5A0geQ9yDuV0sWD9r0JKwmQUwC2q2HBOSke9Rt4xWSpCwAs2OLPsquCnYurZDmeP1lZgBjkiUykXZeqiXJa+D3J+nnGShEM7naO/LXroDbyJoUsmuMarpLrivZ9z6mSSieUqr759j8HEAjtdk4hz4zCIsP74K5JnZ/6mDaIsnPFI22OoSyb1EihyBN2xwY6UvttePGApoZrfGXDD/JtPsI+UQ0KsXJ/hOjuCf8gmTj7BMSlxNVqs2z78QWzKmDfy1Zptxm/cJPWoUSke7z9CA5w6v8cQlRuT7D7IhHSzyJUaoW0HPSG+FZNgqQBOtUWjgF2+6PWJXP7ilouz8zwZ6IgTZtBpTY7umL0U3fMH8RYjSd8OQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: run.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

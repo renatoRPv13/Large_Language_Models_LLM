@@ -1,0 +1,48 @@
+type: edu
+custom_name: Text Tokenization and Preprocessing
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 992
+        length: 75
+        placeholder_text: "# TODO: implement tokenize function"
+        initial_state:
+          length: 35
+          offset: 791
+        initialized_from_dependency: false
+        encrypted_possible_answer: SzzDiqehfMZD11GW4csOsKYqZ4pdU+heA0aKg5coFUQi3r2+uaFt6mVLx49ss69QgeRXyMpv+Vdb23LRlgxilpnebJ8Jkh1JtqNe3NtGxAy2oQol7MWy+7gsszl5QU47
+        selected: true
+        status: Unchecked
+      - offset: 1232
+        length: 78
+        placeholder_text: "pass # TODO: YOUR CODE HERE"
+        initial_state:
+          length: 27
+          offset: 963
+        initialized_from_dependency: false
+        encrypted_possible_answer: zqtXUzVI/2wcqqQiRUlXeMB3MGrOPYdMvUHFXguqS/BbaeGDxND2n+HOzagDRnih
+        selected: true
+        status: Unchecked
+      - offset: 1550
+        length: 22
+        placeholder_text: "# TODO: YOUR CODE HERE"
+        initial_state:
+          length: 22
+          offset: 1189
+        initialized_from_dependency: false
+        encrypted_possible_answer: q8+YBay16taPvAv3ObPRD6bM31oP9bMo/RjAbIZdJ6hGQNb2ZmbzMywV3XFMpihFfFOR2GBqnQPpwksuPFHVZQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

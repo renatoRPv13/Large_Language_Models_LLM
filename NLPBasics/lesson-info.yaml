@@ -1,0 +1,11 @@
+content:
+  - task00_about_lesson
+  - task01_data_first_look
+  - task02_tokenization
+  - task03_glove_embeddings
+  - task04_embedding_visualization
+  - task05_clf_knn_baseline
+  - task06_word_counts
+  - task07_clf_naive_bayes
+  - task08_clf_logreg_with_word_counts
+  - task09_clf_logreg_with_embs

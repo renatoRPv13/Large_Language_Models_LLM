@@ -1,0 +1,10 @@
+content:
+  - task00_about_lesson
+  - task01_ngrams
+  - task02_generation
+  - task03_perplexity
+  - task04_laplace
+  - task05_text_tools
+  - task06_rnn
+  - task07_loss
+  - task08_train

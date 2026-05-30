@@ -1,0 +1,68 @@
+type: edu
+custom_name: CE Loss
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 25626
+        length: 14
+        placeholder_text: "# TODO: Step 1"
+        initial_state:
+          length: 14
+          offset: 2377
+        initialized_from_dependency: false
+        encrypted_possible_answer: Kkph9YdV/LYRX4z56sslFeHfjDro/GtR2X6rvzn462VgcCbAXlE9jFsu/mz4IR70xgT3uL6p69O5kzbUS1y3tioB/QkK9zEB4TYlDjtQ+ig=
+        selected: false
+        status: Unchecked
+      - offset: 25650
+        length: 14
+        placeholder_text: "# TODO: Step 2"
+        initial_state:
+          length: 14
+          offset: 2401
+        initialized_from_dependency: false
+        encrypted_possible_answer: QPGPgEFZ6ONxAjoq4whLUW6S6sI+tSOuBA6nZNzbGmDHkTo2pLM+6WPts1gWg3oAcSaTGtayWr29Eqp3W0Bt1bqwgRE+pCAkwcuGEGlyFgXQps3CFWXwTTMDG7QNFrK3WKW/sESz7WszJb1gsh1/nhUngcL4bBp3w5v4D2JOjqKAbMj1S27C6ZyE+weOYqmfzWvg52tfaZ1isiahwO6l1092GLinlkdI4l7nNWLgpTaZ1aQAowYMSqhVTKpzmyt7D9KZfJJLFBK40SA8xl7xrw==
+        selected: false
+        status: Unchecked
+      - offset: 25674
+        length: 14
+        placeholder_text: "# TODO: Step 3"
+        initial_state:
+          length: 14
+          offset: 2425
+        initialized_from_dependency: false
+        encrypted_possible_answer: vZDhkyS8gnRYhrwJBAlwBr0NvuLCZ8EM91+k39/zd/WELeyxnaUqsXrO9HOwCN58FsIQbbrMcbdZwmGn2WFwFaoox7uFCpXFtGGtBbBCqCCBQlyaHB7HZMa3JNfcIqLP
+        selected: false
+        status: Unchecked
+      - offset: 25698
+        length: 14
+        placeholder_text: "# TODO: Step 4"
+        initial_state:
+          length: 14
+          offset: 2449
+        initialized_from_dependency: false
+        encrypted_possible_answer: pYSX+DBZlj/KEWAU2kW/PIObObylYtWnCK7IIKZNpUJIpLX/8J9QXwbwIGMya0iEXZ4bpFCUMvAf9iW/zvANNWKi0luErJrszQSa1t4IF/fVeO7ClJudzViYQ2bCRnvm
+        selected: false
+        status: Unchecked
+      - offset: 25721
+        length: 16
+        placeholder_text: "# TODO: Step 5,6"
+        initial_state:
+          length: 16
+          offset: 2472
+        initialized_from_dependency: false
+        encrypted_possible_answer: whAYngoHLNF6Pzjk9N3NMJw3iuMw/GMUXJYzCG+7zrUMnJLJnCQyt86miT67VN8wvHcodDUbnSturwMQHuzWrRKl5L4fw1PcPKV7s5wb7ac=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

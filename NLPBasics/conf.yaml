@@ -1,0 +1,25 @@
+root_dir: ???
+
+data_dir: ${root_dir}/data
+output_dir: ${root_dir}/output
+
+dataset: stanfordnlp/imdb
+
+path:
+  train: ${data_dir}/train.csv
+  test: ${data_dir}/test.csv
+
+  train_bow: ${data_dir}/train_bow.npy
+  test_bow: ${data_dir}/test_bow.npy
+
+  train_emb: ${data_dir}/train_emb.npy
+  test_emb: ${data_dir}/test_emb.npy
+
+  train_target: ${data_dir}/train_target.npy
+  test_target: ${data_dir}/test_target.npy
+  
+  words: ${data_dir}/words.npy
+  word_embs: ${data_dir}/word_embs.npy
+  
+  phrases: ${data_dir}/phrases.npy
+  phrase_embs: ${data_dir}/phrase_embs.npy

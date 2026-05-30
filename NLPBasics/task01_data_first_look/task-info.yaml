@@ -1,0 +1,84 @@
+type: edu
+custom_name: Data Exploration and Quality Assessment
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 760
+        length: 11
+        placeholder_text: "pass # TODO"
+        initial_state:
+          length: 11
+          offset: 648
+        initialized_from_dependency: false
+        encrypted_possible_answer: YCLd+1Kph2cLKekp8ZNFXA==
+        selected: false
+        status: Unchecked
+      - offset: 1185
+        length: 11
+        placeholder_text: "pass # TODO"
+        initial_state:
+          length: 11
+          offset: 976
+        initialized_from_dependency: false
+        encrypted_possible_answer: WNGY3LkWhpUPzhQ634Meu6+wbLd4VZ4u/TzS56Sw75w=
+        selected: false
+        status: Unchecked
+      - offset: 1360
+        length: 11
+        placeholder_text: "pass # TODO"
+        initial_state:
+          length: 11
+          offset: 1123
+        initialized_from_dependency: false
+        encrypted_possible_answer: JmuRluUj0MVcqJDlv+bIM0RVlElL4ZZQk+3Hp9KmbcG8a7fIa1wV0AnnTuEvrtiQ
+        selected: false
+        status: Unchecked
+      - offset: 1668
+        length: 11
+        placeholder_text: "pass # TODO"
+        initial_state:
+          length: 11
+          offset: 1379
+        initialized_from_dependency: false
+        encrypted_possible_answer: EhYIWr7OGbVrnnbyoErzNguPNH8fK91yoHgAKTnt8PQH/MxDDeKJ9+yC19jjwdPY
+        selected: false
+        status: Unchecked
+      - offset: 1875
+        length: 11
+        placeholder_text: "pass # TODO"
+        initial_state:
+          length: 11
+          offset: 1548
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4stCJyBdjHBAUraEciQxVLJnH04tIgjzyvbgFbYV+Yw=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: img/image_0_dark.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: img/image_0.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: img/image_1_dark.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: img/image_1.png
+    visible: false
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1

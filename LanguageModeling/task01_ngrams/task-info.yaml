@@ -1,0 +1,65 @@
+type: edu
+custom_name: N-grams
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 11588
+        length: 26
+        placeholder_text: "# TODO: fill in the counts"
+        initial_state:
+          length: 26
+          offset: 2421
+        initialized_from_dependency: false
+        encrypted_possible_answer: +AImwiayrFD4+4uArDtWtWqXnGNyq4TseLYJvaSgWvPt2x133cSjSm60qjgljm5ngziisI/y3kMwMVVABYaPF1PVAynVATvPHvRjkbAqVQneTE7pzpdfvQa/FW9d9QoDD6bem7sjVrfvlmPHI1DKmwTW38wixI30tc9TjoTvTZ7wJT6TmJQ7dzdjHCg9uvMUI1CY4kc+QDC1ZtlYJBq38+Lb2GIOf1i/syyFd0qFD9tWO4j/GiNdO4pebbwHbRsnAnjJZ3uEGMaFzHfM8TqwGMaI9k+TVVBjyHjuAUFIvJIbf9ixJwL3gt8nf0qDY/uezQTsVOoN/QycaS19mb3gjvjhCW/pPh2jrOTZIoZaCcd4qX9FJBGwYIgq5ph2tI5W
+        selected: false
+        status: Unchecked
+      - offset: 12347
+        length: 137
+        placeholder_text: "# TODO: fill in the probs for prefix, token. Formula: token_i\
+      \ / (sum_j token_j), where token_i is frequence of token_i after given prefix"
+        initial_state:
+          length: 137
+          offset: 3140
+        initialized_from_dependency: false
+        encrypted_possible_answer: JBm6X9nOOfq9rcT4YtP4xb8JddgrctVdgZOKNRNvA+eTA8B21bdx1t/GZlLuxmrE
+        selected: false
+        status: Unchecked
+      - offset: 13083
+        length: 11
+        placeholder_text: "pass # TODO"
+        initial_state:
+          length: 11
+          offset: 3851
+        initialized_from_dependency: false
+        encrypted_possible_answer: r3OY4uebjsGMUtUriA4JU5ARutT89OAikCDwp/KhZErm+twwBtFpMBs2F2E7iU+Ex8MLFlpbWJqcbfp8dd4k/MWRMbP6GPbhI7yBG+VPtY+9yobZg6/1IMROF8QgjL/+YIFefEGdKcohARa/nRhSlscqZXRZ3lk5ap6dHk4Z9WZdhmSP4XO7EmM8zF0q8wGZYzxq95uz8B9CNgVX05qiFtKth1YXbrIFKJAHeiB9tQ9qCEA75Aepojn9Ys31fbCD7Ea2+bkaB8AY0s3snU6ZpA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: download_data.py
+    visible: true
+    learner_created: false
+  - name: arxivData.json.tar.gz
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: arxivLinesTrain.txt
+    visible: true
+    learner_created: true
+  - name: arxivData.json
+    visible: true
+    learner_created: true
+  - name: arxivLinesTest.txt
+    visible: true
+    learner_created: true
+status: Unchecked
+record: -1

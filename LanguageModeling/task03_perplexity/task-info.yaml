@@ -1,0 +1,32 @@
+type: edu
+custom_name: Language Model Perplexity Evaluation
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 1386
+        length: 71
+        placeholder_text: "# TODO: update total_logprob and prefix. Don't forget about\
+      \ min_logprob."
+        initial_state:
+          length: 72
+          offset: 1303
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1Vte8VTSGg3XC4425bQ0aNxmgLotaNGcnAgwmvCDAbC741MR8kDxH77es8HXxn9OyND3p+Tyh2Weoqp01+jd0BGQptEp/bCTn7nCeSMks2BW23trmNhg9qwaJZy2yenLX/toFfyfXKaBk6hhODWGa0NCRiu3XORzc8FBcI4e8MQO8tkI9F/lww9QWIk4PcemjjapkmnAFIH/UmSNzVAY/84APqWumySRPNLlsVgTDutOouUFW78YlvbKjDIt5s+9
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: run.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

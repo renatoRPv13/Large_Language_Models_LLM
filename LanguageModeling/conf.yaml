@@ -1,0 +1,5 @@
+root: ???
+
+data:
+  train: ${root}/task01_ngrams/arxivLinesTrain.txt
+  test: ${root}/task01_ngrams/arxivLinesTest.txt

@@ -1,0 +1,17 @@
+type: edu
+custom_name: k-Nearest Neighbors Classification
+files:
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: true
+status: Unchecked
+record: -1

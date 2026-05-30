@@ -1,0 +1,30 @@
+type: marketplace
+title: Mastering Large Language Models
+language: English
+summary: "Get a comprehensive hands-on experience, starting with NLP basics, and moving\
+  \ on to advanced topics like fine-tuning, text generation, and more."
+programming_language: Python
+environment: unittest
+content:
+  - NLPBasics
+  - LanguageModeling
+  - MinLlama
+  - FineTuning
+  - RAG
+  - GenAnkiCards
+additional_files:
+  - name: README.md
+  - name: requirements.txt
+  - name: NLPBasics/conf.yaml
+  - name: NLPBasics/envvars.py
+  - name: LanguageModeling/conf.yaml
+  - name: FineTuning/conf.yaml
+  - name: RAG/config.yaml
+  - name: FineTuning/requirements.txt
+    visible: true
+  - name: FineTuning/experiments/.keep
+    visible: true
+  - name: GenAnkiCards/__init__.py
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/28816-mastering-large-language-models/reviews
+yaml_version: 5
