@@ -1,0 +1,12 @@
+root_dir: ???
+
+model: unsloth/Llama-3.2-1B-Instruct
+
+data:
+  words: ${root_dir}/data/c1_words.json
+  train_test_dir: ${root_dir}/data/train_test
+exp:  # experiments
+  eval_base_model_dir: ${root_dir}/experiments/eval_base_model
+  prompt_tuning_dir: ${root_dir}/experiments/prompt_tuning
+  ia3_dir: ${root_dir}/experiments/ia3
+  lora_dir: ${root_dir}/experiments/lora

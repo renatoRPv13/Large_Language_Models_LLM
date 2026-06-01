@@ -1,0 +1,65 @@
+type: edu
+custom_name: Grid Search Trainer
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 4394
+        length: 22
+        placeholder_text: "# TODO: get peft model"
+        initial_state:
+          length: 22
+          offset: 4344
+        initialized_from_dependency: false
+        encrypted_possible_answer: hVd408kAby3ppLHE+UCJuZ9kMNo7XFRAiy40GhbKsqthHUmkOYrA4515wffGKQ7/MrPiDShXYiYYUFWsuwwoPQ==
+        selected: false
+        status: Unchecked
+      - offset: 4548
+        length: 79
+        placeholder_text: "# TODO: init Trainer. don't forget about data collator, datasets,\
+      \ and callbacks"
+        initial_state:
+          length: 79
+          offset: 4455
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9FbVToOxl5E4PUN4uRsjMXaPAK04EpQ2zurSpgY6lVDAY7+1b9fLrvqa1flCW0PQPccmIDUI+BbNyJX3mk8N2AYA5ayqCSqsDzvtjyQdb+6U8ghoiCRjS3Q9G5NhvYlYZggZ0+BbpEeeOTeyRE3Acit+rGGsa6/AoquCG3CbhEOM85VUTpCStlDGkjjd6zzRVWNlIvtYCG7m7dO0d168SAV93UtUkWilhOTlFvMlLAUxCVYTtHw9gPSC5t8nCgQgLeSK7YoSz165rZV85zh+TARdRfCoLd8OSceqFyxH/xSOxee9YXDoxMNqr/Vyj6qe5Wklvxieh4+sGPOQruRWBQaZcy4GE/0SqM6PI4T8PKn35jDe7+kHI9Pqmkz9Mwfu
+        selected: false
+        status: Unchecked
+      - offset: 7069
+        length: 27
+        placeholder_text: "pass # TODO: YOUR CODE HERE"
+        initial_state:
+          length: 27
+          offset: 6784
+        initialized_from_dependency: false
+        encrypted_possible_answer: FgTsaEWPpl1NhR5cCUuZIQt83qb7YMK/Gc19LBdJc+smdpv9VupFpgxOrEVgo/zaoMxoYHVdTSIkCrufS5dWKz8dfK+ZLKreRztvA2xL7xDJ3gad/siVXWH8PcYS0iE5NC9KnlosccMjUELE+Ju8KdBk3G1hFtrW7Djyja8bm4xSAL69v4MkfXIZs5Nrq1ci
+        selected: false
+        status: Unchecked
+      - offset: 7527
+        length: 47
+        placeholder_text: "# TODO: update grid parameters and run training"
+        initial_state:
+          length: 47
+          offset: 7205
+        initialized_from_dependency: false
+        encrypted_possible_answer: rCozoWVK/BclP0DBdYVVVZDA//JW7WiR9CnP0WqhspVbePSkIIr4+6275gxlhId5Z68Gbw9e9wtbCCcc2gdipqcjM/f9fit01fnWnXYsBYggzamo7Q6kUcR/ZbR3Aqx95AGPrRmdU0wRdXdi5dLYrmJ5iXxshgMof4U8GsKs7II14CUq/3DudA6haB6gNdy3
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: best_run_searcher.py
+    visible: true
+    learner_created: false
+  - name: callbacks.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

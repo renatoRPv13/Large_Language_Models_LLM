@@ -1,0 +1,12 @@
+type: theory
+custom_name: Data Overview
+files:
+  - name: c1_words.json
+    visible: true
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

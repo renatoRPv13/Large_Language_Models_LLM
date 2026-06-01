@@ -1,0 +1,23 @@
+[
+  {
+    "word": "unmusically",
+    "true_definition": "in a way that is not musically pleasing or harmonious",
+    "gen_definition": "painting was unmusically composed",
+    "true_example": "She sang unmusically",
+    "gen_example": "The painting was unmusically composed"
+  },
+  {
+    "word": "premises",
+    "true_definition": "a building and the land belonging to it",
+    "gen_definition": "the basic or fundamental facts or conditions that exist or are present in something",
+    "true_example": "The company's premises are located downtown.",
+    "gen_example": "The premises of the meeting were discussed in detail"
+  },
+  {
+    "word": "drill",
+    "true_definition": "a tool or machine with a pointed end for making holes",
+    "gen_definition": "to make a hole in a surface using a rotating drill bit",
+    "true_example": "Use the drill to make a hole.",
+    "gen_example": "I used a drill to make a hole in the wall"
+  }
+]

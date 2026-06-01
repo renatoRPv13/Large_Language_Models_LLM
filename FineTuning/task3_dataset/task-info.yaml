@@ -1,0 +1,23 @@
+type: edu
+custom_name: Dataset
+files:
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: run.py
+    visible: true
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: true
+  - name: temp_sample.json
+    visible: true
+    learner_created: true
+status: Unchecked
+record: -1

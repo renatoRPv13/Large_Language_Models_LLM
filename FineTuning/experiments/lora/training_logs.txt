@@ -1,0 +1,60 @@
+2026-04-29 00:46:22,000 - INFO - {"loss": 2.8583, "grad_norm": 0.9435461163520813, "learning_rate": 7.818181818181818e-05, "epoch": 1.1395348837209303}
+2026-04-29 00:50:59,019 - INFO - {"eval_loss": 2.530045509338379, "eval_runtime": 276.9936, "eval_samples_per_second": 0.877, "eval_steps_per_second": 0.058, "epoch": 1.1395348837209303}
+2026-05-03 14:27:53,198 - INFO - {"loss": 2.8623, "grad_norm": 0.9095689058303833, "learning_rate": 7.818181818181818e-05, "epoch": 1.1395348837209303}
+2026-05-03 14:31:52,569 - INFO - {"eval_loss": 2.532916307449341, "eval_runtime": 239.3597, "eval_samples_per_second": 1.015, "eval_steps_per_second": 0.067, "epoch": 1.1395348837209303}
+2026-05-03 15:52:24,311 - INFO - {"loss": 2.4171, "grad_norm": 0.5392411351203918, "learning_rate": 5.545454545454546e-05, "epoch": 2.2790697674418605}
+2026-05-03 15:56:26,704 - INFO - {"eval_loss": 2.3323357105255127, "eval_runtime": 242.3867, "eval_samples_per_second": 1.003, "eval_steps_per_second": 0.066, "epoch": 2.2790697674418605}
+2026-05-03 17:31:02,667 - INFO - {"loss": 2.3103, "grad_norm": 0.4786842465400696, "learning_rate": 3.272727272727273e-05, "epoch": 3.4186046511627906}
+2026-05-03 17:35:04,799 - INFO - {"eval_loss": 2.2895588874816895, "eval_runtime": 242.1267, "eval_samples_per_second": 1.004, "eval_steps_per_second": 0.066, "epoch": 3.4186046511627906}
+2026-05-03 19:32:43,426 - INFO - {"loss": 2.2918, "grad_norm": 0.5317663550376892, "learning_rate": 1e-05, "epoch": 4.558139534883721}
+2026-05-03 19:41:20,436 - INFO - {"eval_loss": 2.2789692878723145, "eval_runtime": 517.0001, "eval_samples_per_second": 0.47, "eval_steps_per_second": 0.031, "epoch": 4.558139534883721}
+2026-05-03 20:28:42,476 - INFO - {"train_runtime": 26224.8126, "train_samples_per_second": 0.262, "train_steps_per_second": 0.004, "total_flos": 1570326456483840.0, "train_loss": 2.4523229425603694, "epoch": 5.0}
+2026-05-03 22:08:19,685 - INFO - {"loss": 2.4659, "grad_norm": 0.5465076565742493, "learning_rate": 0.00039090909090909096, "epoch": 1.1395348837209303}
+2026-05-03 22:16:02,070 - INFO - {"eval_loss": 2.251880168914795, "eval_runtime": 462.3724, "eval_samples_per_second": 0.526, "eval_steps_per_second": 0.035, "epoch": 1.1395348837209303}
+2026-05-03 23:39:47,212 - INFO - {"loss": 2.2153, "grad_norm": 0.5200477242469788, "learning_rate": 0.0002772727272727273, "epoch": 2.2790697674418605}
+2026-05-03 23:43:51,149 - INFO - {"eval_loss": 2.2085187435150146, "eval_runtime": 243.9312, "eval_samples_per_second": 0.996, "eval_steps_per_second": 0.066, "epoch": 2.2790697674418605}
+2026-05-03 23:44:24,869 - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: e08254e4-cf6d-4c6d-ac6a-6a27c1a4a1bf)')' thrown while requesting HEAD https://huggingface.co/unsloth/Llama-3.2-1B-Instruct/resolve/main/config.json
+2026-05-03 23:44:24,870 - WARNING - Retrying in 1s [Retry 1/5].
+2026-05-04 01:02:05,630 - INFO - {"loss": 2.1644, "grad_norm": 0.5698897242546082, "learning_rate": 0.00016363636363636363, "epoch": 3.4186046511627906}
+2026-05-04 01:06:05,665 - INFO - {"eval_loss": 2.1903438568115234, "eval_runtime": 240.0287, "eval_samples_per_second": 1.012, "eval_steps_per_second": 0.067, "epoch": 3.4186046511627906}
+2026-05-04 02:16:51,565 - INFO - {"loss": 2.1378, "grad_norm": 0.6342576742172241, "learning_rate": 5e-05, "epoch": 4.558139534883721}
+2026-05-04 02:20:53,301 - INFO - {"eval_loss": 2.182305335998535, "eval_runtime": 241.731, "eval_samples_per_second": 1.005, "eval_steps_per_second": 0.066, "epoch": 4.558139534883721}
+2026-05-04 02:48:32,992 - INFO - {"train_runtime": 22785.6255, "train_samples_per_second": 0.301, "train_steps_per_second": 0.005, "total_flos": 1570326456483840.0, "train_loss": 2.2329558805985883, "epoch": 5.0}
+2026-05-04 03:59:12,600 - INFO - {"loss": 2.381, "grad_norm": 0.514447033405304, "learning_rate": 0.0007818181818181819, "epoch": 1.1395348837209303}
+2026-05-04 04:03:13,176 - INFO - {"eval_loss": 2.2170164585113525, "eval_runtime": 240.5702, "eval_samples_per_second": 1.01, "eval_steps_per_second": 0.067, "epoch": 1.1395348837209303}
+2026-05-04 05:14:11,163 - INFO - {"loss": 2.1554, "grad_norm": 0.5232457518577576, "learning_rate": 0.0005545454545454546, "epoch": 2.2790697674418605}
+2026-05-04 05:18:12,931 - INFO - {"eval_loss": 2.17101788520813, "eval_runtime": 241.762, "eval_samples_per_second": 1.005, "eval_steps_per_second": 0.066, "epoch": 2.2790697674418605}
+2026-05-04 05:18:48,470 - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')), '(Request ID: 0b279d24-06a0-4723-ac07-f7301aa44a32)')' thrown while requesting HEAD https://huggingface.co/unsloth/Llama-3.2-1B-Instruct/resolve/main/config.json
+2026-05-04 05:18:48,470 - WARNING - Retrying in 1s [Retry 1/5].
+2026-05-04 06:30:30,193 - INFO - {"loss": 2.0497, "grad_norm": 0.6348289847373962, "learning_rate": 0.00032727272727272726, "epoch": 3.4186046511627906}
+2026-05-04 06:34:30,313 - INFO - {"eval_loss": 2.1316514015197754, "eval_runtime": 240.1136, "eval_samples_per_second": 1.012, "eval_steps_per_second": 0.067, "epoch": 3.4186046511627906}
+2026-05-04 07:45:22,187 - INFO - {"loss": 1.9402, "grad_norm": 0.7474885582923889, "learning_rate": 0.0001, "epoch": 4.558139534883721}
+2026-05-04 07:49:21,734 - INFO - {"eval_loss": 2.0711686611175537, "eval_runtime": 239.541, "eval_samples_per_second": 1.014, "eval_steps_per_second": 0.067, "epoch": 4.558139534883721}
+2026-05-04 08:17:25,006 - INFO - {"train_runtime": 19730.1017, "train_samples_per_second": 0.348, "train_steps_per_second": 0.006, "total_flos": 1570326456483840.0, "train_loss": 2.1071650071577595, "epoch": 5.0}
+2026-05-04 10:04:38,916 - INFO - {"loss": 2.7226, "grad_norm": 3.8187386989593506, "learning_rate": 0.003909090909090909, "epoch": 1.1395348837209303}
+2026-05-04 10:08:42,394 - INFO - {"eval_loss": 2.3097984790802, "eval_runtime": 243.4716, "eval_samples_per_second": 0.998, "eval_steps_per_second": 0.066, "epoch": 1.1395348837209303}
+2026-05-04 11:54:31,277 - INFO - {"loss": 1.9565, "grad_norm": 0.7819291949272156, "learning_rate": 0.002772727272727273, "epoch": 2.2790697674418605}
+2026-05-04 11:59:40,191 - INFO - {"eval_loss": 1.9450229406356812, "eval_runtime": 308.9002, "eval_samples_per_second": 0.787, "eval_steps_per_second": 0.052, "epoch": 2.2790697674418605}
+2026-05-04 13:31:07,256 - INFO - {"loss": 1.5803, "grad_norm": 1.2442457675933838, "learning_rate": 0.0016363636363636363, "epoch": 3.4186046511627906}
+2026-05-04 13:36:16,305 - INFO - {"eval_loss": 1.974170207977295, "eval_runtime": 309.013, "eval_samples_per_second": 0.786, "eval_steps_per_second": 0.052, "epoch": 3.4186046511627906}
+2026-05-04 15:24:00,109 - INFO - {"loss": 1.3586, "grad_norm": 0.5861495733261108, "learning_rate": 0.0005, "epoch": 4.558139534883721}
+2026-05-04 15:28:12,711 - INFO - {"eval_loss": 2.0627317428588867, "eval_runtime": 252.5968, "eval_samples_per_second": 0.962, "eval_steps_per_second": 0.063, "epoch": 4.558139534883721}
+2026-05-04 15:56:33,226 - INFO - {"train_runtime": 27546.5394, "train_samples_per_second": 0.249, "train_steps_per_second": 0.004, "total_flos": 1570326456483840.0, "train_loss": 1.8453742720864035, "epoch": 5.0}
+2026-05-04 17:08:06,364 - INFO - {"loss": 4.08, "grad_norm": 1.0534847974777222, "learning_rate": 0.007818181818181818, "epoch": 1.1395348837209303}
+2026-05-04 17:12:07,951 - INFO - {"eval_loss": 2.7981629371643066, "eval_runtime": 241.5804, "eval_samples_per_second": 1.006, "eval_steps_per_second": 0.066, "epoch": 1.1395348837209303}
+2026-05-04 18:29:59,292 - INFO - {"loss": 2.2925, "grad_norm": 1.048891305923462, "learning_rate": 0.005545454545454546, "epoch": 2.2790697674418605}
+2026-05-04 18:34:03,210 - INFO - {"eval_loss": 2.138169050216675, "eval_runtime": 243.9116, "eval_samples_per_second": 0.996, "eval_steps_per_second": 0.066, "epoch": 2.2790697674418605}
+2026-05-04 20:09:09,154 - INFO - {"loss": 1.7688, "grad_norm": 1.8985304832458496, "learning_rate": 0.0032727272727272726, "epoch": 3.4186046511627906}
+2026-05-04 20:13:10,612 - INFO - {"eval_loss": 2.040865659713745, "eval_runtime": 241.4525, "eval_samples_per_second": 1.006, "eval_steps_per_second": 0.066, "epoch": 3.4186046511627906}
+2026-05-04 22:04:30,014 - INFO - {"loss": 1.457, "grad_norm": 0.5813825726509094, "learning_rate": 0.001, "epoch": 4.558139534883721}
+2026-05-04 22:11:29,376 - INFO - {"eval_loss": 2.1191625595092773, "eval_runtime": 419.3467, "eval_samples_per_second": 0.579, "eval_steps_per_second": 0.038, "epoch": 4.558139534883721}
+2026-05-04 22:52:04,014 - INFO - {"train_runtime": 24925.8748, "train_samples_per_second": 0.275, "train_steps_per_second": 0.004, "total_flos": 1570326456483840.0, "train_loss": 2.3001055630770595, "epoch": 5.0}
+2026-05-05 00:08:37,792 - INFO - {"loss": 8.2025, "grad_norm": 0.47931167483329773, "learning_rate": 0.03909090909090909, "epoch": 1.1395348837209303}
+2026-05-05 00:12:42,555 - INFO - {"eval_loss": 6.07534646987915, "eval_runtime": 244.7516, "eval_samples_per_second": 0.993, "eval_steps_per_second": 0.065, "epoch": 1.1395348837209303}
+2026-05-05 01:26:21,379 - INFO - {"loss": 5.8485, "grad_norm": 1.913958191871643, "learning_rate": 0.02772727272727273, "epoch": 2.2790697674418605}
+2026-05-05 01:30:24,049 - INFO - {"eval_loss": 5.76111364364624, "eval_runtime": 242.6641, "eval_samples_per_second": 1.001, "eval_steps_per_second": 0.066, "epoch": 2.2790697674418605}
+2026-05-05 02:51:50,492 - INFO - {"loss": 5.6248, "grad_norm": 1.334059476852417, "learning_rate": 0.016363636363636365, "epoch": 3.4186046511627906}
+2026-05-05 02:56:19,172 - INFO - {"eval_loss": 5.650599002838135, "eval_runtime": 268.6743, "eval_samples_per_second": 0.904, "eval_steps_per_second": 0.06, "epoch": 3.4186046511627906}
+2026-05-05 04:18:23,834 - INFO - {"loss": 5.5226, "grad_norm": 1.2466213703155518, "learning_rate": 0.005000000000000001, "epoch": 4.558139534883721}
+2026-05-05 04:22:56,164 - INFO - {"eval_loss": 5.562653541564941, "eval_runtime": 272.3239, "eval_samples_per_second": 0.892, "eval_steps_per_second": 0.059, "epoch": 4.558139534883721}
+2026-05-05 04:55:27,394 - INFO - {"train_runtime": 21801.1078, "train_samples_per_second": 0.315, "train_steps_per_second": 0.005, "total_flos": 1570326456483840.0, "train_loss": 6.222869526256215, "epoch": 5.0}

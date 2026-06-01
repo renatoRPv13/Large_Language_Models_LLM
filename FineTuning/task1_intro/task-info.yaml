@@ -1,0 +1,48 @@
+type: theory
+custom_name: Intro
+files:
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: images/run_dark.svg
+    visible: false
+    learner_created: false
+  - name: images/run.svg
+    visible: false
+    learner_created: false
+  - name: images/download_dark.svg
+    visible: false
+    learner_created: false
+  - name: images/download.svg
+    visible: false
+    learner_created: false
+  - name: images/execution_config.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: images/execution_config_dark.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: images/presets_list.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: images/presets_list_dark.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: images/download_data.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: images/download_data_dark.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: runConfigurations/runner.run.xml
+    visible: false
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

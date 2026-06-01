@@ -1,0 +1,23 @@
+[
+  {
+    "word": "fossil",
+    "true_definition": "something outdated or no longer in use",
+    "gen_definition": "a preserved remains of an organism or plant from a long period of time",
+    "true_example": "Fax machines are fossils in today's office.",
+    "gen_example": "The museum has a fossil of a dinosaur"
+  },
+  {
+    "word": "contract",
+    "true_definition": "to make a formal agreement or commitment",
+    "gen_definition": "a written agreement between two or more parties, outlining terms and conditions, obligations, and expectations",
+    "true_example": "They contracted to provide services for a year.",
+    "gen_example": "The company entered into a contract with the supplier"
+  },
+  {
+    "word": "unmusically",
+    "true_definition": "in a way that is not musically pleasing or harmonious",
+    "gen_definition": "song was unmusically sung",
+    "true_example": "She sang unmusically",
+    "gen_example": "The singer sang the song unmusically"
+  }
+]

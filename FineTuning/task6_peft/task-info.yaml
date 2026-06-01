@@ -1,0 +1,71 @@
+type: edu
+custom_name: PEFT
+files:
+  - name: run_eval.py
+    visible: true
+    learner_created: false
+  - name: run_train.py
+    visible: true
+    learner_created: false
+  - name: run.sh
+    visible: true
+    learner_created: false
+  - name: configs/base.py
+    visible: true
+    learner_created: false
+  - name: configs/__init__.py
+    visible: true
+    learner_created: false
+  - name: configs/ia3.py
+    visible: true
+    placeholders:
+      - offset: 545
+        length: 26
+        placeholder_text: "# TODO: fill in the config"
+        initial_state:
+          length: 26
+          offset: 545
+        initialized_from_dependency: false
+        encrypted_possible_answer: hLZ5kjjiA94tSvRbLR6lFpm1btz8j53gKP/xvf455IBUn9Jd4hmwVwJi0pjmQvTfRJqGCsO9QmTWZ6oAkj94SVnsM61W9c1vgodZ/DLRV0Zj5aFCpCE/ueE78nTyv9icwUQOs73f/cEs3InprrlzISgX1W7+fXh+R6NuJwSmVQmqN8DGd80vRqcgCjkpVJKwCtVAbOPAjEyzM7AlgG1YRw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: configs/lora.py
+    visible: true
+    placeholders:
+      - offset: 549
+        length: 26
+        placeholder_text: "# TODO: fill in the config"
+        initial_state:
+          length: 26
+          offset: 549
+        initialized_from_dependency: false
+        encrypted_possible_answer: fSqX5ynHopAq8XVnQAGOmXAwv3QxLj7+iKI9Byw3iIuDehgOj4ozviWa7TxwjGv8Q3bZblZ4lKywUpo5F0jQ0sxJCSmQherRiWX+TOLTpXKDw7LQl0XhcrhT+IfXnJD9ZYobRBcY6zPGBjfv0k2WmbgY79owsi50GGvZCRuYbzLD5zncFIBBn4XE8HYa5GaflhKZKxq38abgvMVltn+NuiIpqhS8AwCQUuDBTwyqu0tDCfaWNokAQgba2RNpJXs0rmOAt2WL4nkjwgj7Iurpu6ct/dZsQWgmKq26kscD0NcwZ/61cvG/YztPbnmUVHVbigmEA4CR4Sb3yLE4x6MNlyDq48QrjABpaQ7wBzilwUxwDosnYYEqJ0JjKnFZMyKu/hrX8BHzKhJc0sAtyQH1zZQnGhlNQdGfUM9wHsM129o=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: configs/prompt_tuning.py
+    visible: true
+    placeholders:
+      - offset: 660
+        length: 26
+        placeholder_text: "# TODO: fill in the config"
+        initial_state:
+          length: 26
+          offset: 660
+        initialized_from_dependency: false
+        encrypted_possible_answer: fMU2Bkp06vZO1Pl/626J3x9gp9NF9BdLeaiC0UNzIDGUvcw5yyU6pd9l9c5cQ88HwQg7F7o3hrTyMhwXtwwOtaXHixGo3tKj+8IOfm/nNxC6TZjStiyne/PurzaYqA492SKJfwXRRI8t+Q6dLf9fIW72WTvlC5gCTLKc8kfITbe+iTggnyc9gdLAQfgzsbuQTn22P3yHogvtsCytWdqqs3QhZfkohd6hj3OGZBfnqlfFvNuqzdTjN+b3VzpHQ3pFqyABpwvEghZ9anwVvHZblNcW2XvJC+CTCDeY/bfbTC4=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

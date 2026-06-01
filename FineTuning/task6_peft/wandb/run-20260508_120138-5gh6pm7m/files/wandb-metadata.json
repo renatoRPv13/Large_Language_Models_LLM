@@ -1,0 +1,27 @@
+{
+  "os": "Linux-6.8.0-111-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.11.15",
+  "startedAt": "2026-05-08T15:01:38.212083Z",
+  "args": [
+    "--method",
+    "lora"
+  ],
+  "program": "/home/selvarpv/PycharmProjects/Mastering Large Language Models/FineTuning/task6_peft/run_train.py",
+  "codePath": "PycharmProjects/Mastering Large Language Models/FineTuning/task6_peft/run_train.py",
+  "codePathLocal": "run_train.py",
+  "root": "/home/selvarpv/PycharmProjects/Mastering Large Language Models/FineTuning/task6_peft",
+  "host": "selvarpv-HP-EliteBook-840-G1",
+  "executable": "/home/selvarpv/anaconda3/envs/mastering-large-language-models/bin/python",
+  "cpu_count": 2,
+  "cpu_count_logical": 4,
+  "disk": {
+    "/": {
+      "total": "305468530688",
+      "used": "169479925760"
+    }
+  },
+  "memory": {
+    "total": "16661311488"
+  },
+  "writerId": "l55oea8n7isopm8t9se079acbtegrv3x"
+}

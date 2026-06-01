@@ -1,0 +1,51 @@
+type: edu
+custom_name: Prompt Engineering
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 2738
+        length: 20
+        placeholder_text: "# TODO: basic prompt"
+        initial_state:
+          length: 20
+          offset: 211
+        initialized_from_dependency: false
+        encrypted_possible_answer: CwXXn9BZCg6fo9LW3OoXXHphCCe/J5754ZiRIU/c2bpGWH60vvVNkJtSm77sUfOM
+        selected: false
+        status: Unchecked
+      - offset: 2785
+        length: 26
+        placeholder_text: "# TODO: instruction prompt"
+        initial_state:
+          length: 26
+          offset: 256
+        initialized_from_dependency: false
+        encrypted_possible_answer: IcghFUgnWQ7WBUySFFXVkg6SDUU5jy9uTMg6oO0GFuffp3M1Ys8mBM99k9iU6l/Aj9kbjdBftDtgpJpadym54Os5QGqLBKmgFsWqII9UttU=
+        selected: false
+        status: Unchecked
+      - offset: 2835
+        length: 23
+        placeholder_text: "# TODO: few-shot prompt"
+        initial_state:
+          length: 23
+          offset: 304
+        initialized_from_dependency: false
+        encrypted_possible_answer: b9HJiNZEK8N89NEU/HxuBaGikdghwFqDzW6+qG3haqxduoeKA/1V2gD0bwa59d1D
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: run.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

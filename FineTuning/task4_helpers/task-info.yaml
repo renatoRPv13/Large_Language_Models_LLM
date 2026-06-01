@@ -1,0 +1,81 @@
+type: edu
+custom_name: Helper Utils
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 2987
+        length: 71
+        placeholder_text: "# TODO: load the model. enable offload_state_dict and low_cpu_mem_usage"
+        initial_state:
+          length: 71
+          offset: 2990
+        initialized_from_dependency: false
+        encrypted_possible_answer: j/kyRr2zWtGJEaraSOJTTW2A1A2h66E0xpgZgMMI/fT4RLiwbBGkhdncpMJbX4Kl/kmC5NJ494n72B/vREOJLaNjQmsYyqkRa2t5SyJKIOahfPtSmbUcv0TDHXuYKD7snZQqZRJbIcpzO0waKe/e5LSKTxMCdJUYHph19HqFGz/FJXVC7lTWOBH3RhFJKPuahwTrmPKUuiXMgWOOuwCWC5ULFrVQLS2mshpxLKjVxjhtG699exf0nemQhh1dcZ/cxk6EWZsQ3utPEd/qxsu7AkMfDX1rybLWxSJQYBM4uamZDK6O0wFhJoPrLKlYuMxQ
+        selected: false
+        status: Unchecked
+      - offset: 3076
+        length: 117
+        placeholder_text: "# TODO: Enable gradient checkpointing for memory optimization"
+        initial_state:
+          length: 61
+          offset: 3079
+        initialized_from_dependency: false
+        encrypted_possible_answer: +kcrMB+XegxAkBZyUj93l+0E7KXiCDQjJ1JCwQDdiA1Bw0AIo7z9yIOsCk9Ya1E2
+        selected: true
+        status: Unchecked
+      - offset: 3203
+        length: 48
+        placeholder_text: "# TODO: if prompt tuning, enable input gradients"
+        initial_state:
+          length: 48
+          offset: 3150
+        initialized_from_dependency: false
+        encrypted_possible_answer: kmJ+pqznAS1hQzm1dzDuCddMqe7PrUbzBlgnlGvttH4Bj23CTGm6RkRH4WaZXYUGzSO2NJWR0kRUVUN6TIXGH5R0uyosBZz7lCt11CDLdWg=
+        selected: false
+        status: Unchecked
+      - offset: 3303
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 3250
+        initialized_from_dependency: false
+        encrypted_possible_answer: aH7OxSaOYHr34Ve7LfgUgpgy2VZEMj+nbfjG0fbRI67+Ui7VbOKKC8Btfa3nooH+IzYHQ1CxBFHqBDcJ7GpHhhblpZ50dMLwG08GWThXPPc=
+        selected: false
+        status: Unchecked
+      - offset: 3543
+        length: 58
+        placeholder_text: "# TODO: get input from tokenizer and move it to the device"
+        initial_state:
+          length: 58
+          offset: 3490
+        initialized_from_dependency: false
+        encrypted_possible_answer: oU8T8oqZiP4mjM57weocOBX4X3Aqs3Z9BCb/bL/1B8WAHsUkIrRcdsrpo4Npz1HrdPsNHMEuosmHZGm2m5NHDEOTNxUbeO53gGq9Wlmtfhc=
+        selected: false
+        status: Unchecked
+      - offset: 3706
+        length: 46
+        placeholder_text: "# TODO: fill in the arguments for `generate()`"
+        initial_state:
+          length: 46
+          offset: 3653
+        initialized_from_dependency: false
+        encrypted_possible_answer: KbK/uV8YxBQ0j2zt/eDM4vAL6tMxKYFaW+wNdaA1qudt971V4L7qk2QIIA+EfJaUJE677Wl3V6aGSrHxkzpXnBHGT87PlF8YYPyJA8YhG/FVFwnSSyRmD6d10Id/FvJSQjVNDEQQcKxjCMCGDTglMw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: run.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

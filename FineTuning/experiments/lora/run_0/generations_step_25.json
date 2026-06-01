@@ -1,0 +1,23 @@
+[
+  {
+    "word": "fossil",
+    "true_definition": "something outdated or no longer in use",
+    "gen_definition": "a remnant or trace of a former living organism, typically preserved in rock or sediment, that is",
+    "true_example": "Fax machines are fossils in today's office.",
+    "gen_example": "The fossil of a giant dinosaur was discovered in the rock"
+  },
+  {
+    "word": "premises",
+    "true_definition": "a building and the land belonging to it",
+    "gen_definition": "the facts or circumstances that are established as true or probable before a particular action or decision is taken",
+    "true_example": "The company's premises are located downtown.",
+    "gen_example": "The lawyer will present the premises of the case to the judge"
+  },
+  {
+    "word": "drill",
+    "true_definition": "a tool or machine with a pointed end for making holes",
+    "gen_definition": "to make a hole in a solid object, typically using a tool with a rotating cutting edge",
+    "true_example": "Use the drill to make a hole.",
+    "gen_example": "She used a drill to make a hole in the wooden table"
+  }
+]
