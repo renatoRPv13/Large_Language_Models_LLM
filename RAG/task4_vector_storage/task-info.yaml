@@ -1,0 +1,83 @@
+type: edu
+custom_name: Vector Storage
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 9340
+        length: 0
+        placeholder_text: "# TODO: normalize self.embeddings"
+        initial_state:
+          length: 33
+          offset: 1186
+        initialized_from_dependency: false
+        encrypted_possible_answer: ey+VgMjhvcHXNMXKmd0iraxIHJiAOAg4rDJxCa9lz4STr0MkFUwYM82ka2qksxmbYAM8L0qT/d4N42xlsiTVhuvV8bfsc7dOhVd1E3VowCM0uwanmsMv1Ql9Dtd0hB27j0pu+x9Zr/6ToUadNJZR9Esk6XBu9Vz1mWI3SsxuIcI=
+        selected: true
+        status: Unchecked
+      - offset: 9340
+        length: 0
+        placeholder_text: "# TODO: encode and, then, normalize the query text. Don't forget\
+      \ about edge case: embedding equal to zero"
+        initial_state:
+          length: 105
+          offset: 1494
+        initialized_from_dependency: false
+        encrypted_possible_answer: vlxcAulI+lfnt2Ap/OxH6mi4N998U74dFzF1UoalbLMnCjKH1fA8jD/x2K1u7mlVtPxsIc95mXoJAlbrKdf1VhR7BObm6OeeoQ2+b30eqy77mk4IKSy6WMtwq+K57Sr/686Sg5HLe8e2m/5KG2TY3L6bB1/oMtqpOvWADEIlaCcNIKO7Mz5/EpsjHEwZOsjn6aJxQH6Ry7f7LpzixZo1YA==
+        selected: false
+        status: Unchecked
+      - offset: 9340
+        length: 0
+        placeholder_text: "# TODO: compute scores"
+        initial_state:
+          length: 22
+          offset: 2026
+        initialized_from_dependency: false
+        encrypted_possible_answer: ilRdAHg5NjwWuDUorxhtLTDVtA5se4UN8LcJhKiEgHU=
+        selected: false
+        status: Unchecked
+      - offset: 9340
+        length: 0
+        placeholder_text: "# TODO: compute k indices corresponding to top scores in descending\
+      \ order"
+        initial_state:
+          length: 73
+          offset: 2116
+        initialized_from_dependency: false
+        encrypted_possible_answer: fcRV0hpRYJEc8QGIGkQWrl0eWUY4xt6sjgzVpQsupaphDInBfxJkIltQhp6myEmCsHqQ3uExCGENjKicpnj/fJTbSCijHrGF/bOyzWovKAg=
+        selected: false
+        status: Unchecked
+      - offset: 9340
+        length: 0
+        placeholder_text: "# TODO: create embeddings"
+        initial_state:
+          length: 25
+          offset: 2625
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1JcR0ukWbhHyHFkz5Uo9SQ215MrRWBBqk2JyCSnKsOnHX2Aaeg4liYRWTM/5fY+AVhUOaMlBLqHPXZmYuASlBG54DIvcN7B31qPiIdknv4SRyrGNOgDDmUlqDxnoa0XS2UKlLJXyHwXc1xhRz2S8y563GmnmxjNKgFOkexw/is9qP0QjXwB2rVW0nxV6zYDy
+        selected: false
+        status: Unchecked
+      - offset: 9340
+        length: 0
+        placeholder_text: "# TODO: return texts and scores"
+        initial_state:
+          length: 31
+          offset: 3199
+        initialized_from_dependency: false
+        encrypted_possible_answer: aDRU8EkqwgUHoBKaKqBY4/EvJjBEfJ4RlPoWSXyME3qaFnaNq7KspAat8j1npmwCpk5jW7zWF+7bYl126wjhOMKa2RUca74ZVTQCaGgeAq8=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: run.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

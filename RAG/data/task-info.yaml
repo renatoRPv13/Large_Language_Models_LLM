@@ -1,0 +1,21 @@
+type: theory
+custom_name: Data Overview
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+  - name: dataset.json
+    visible: true
+    learner_created: false
+  - name: wordnet_definitions.json
+    visible: true
+    learner_created: false
+  - name: words.csv
+    visible: true
+    learner_created: false
+  - name: instruction.md
+    visible: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

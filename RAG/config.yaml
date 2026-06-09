@@ -1,0 +1,19 @@
+root_dir: ???
+DATA_DIR: ${root_dir}/data
+# Data directories
+MODEL_DIR: ${DATA_DIR}/models
+CACHE_DIR: ${DATA_DIR}/cache
+DATASET_PATH: ${DATA_DIR}/dataset.json
+RAG_DATASET_DIR: ${DATA_DIR}/cache/rag_biencoder
+VECTOR_STORE_PATH: ${DATA_DIR}/cache/vector_store.pkl
+DEFINITIONS_PATH: ${DATA_DIR}/wordnet_definitions.json
+# Model parameters
+#MODEL_BASE: NovaSearch/stella_en_400M_v5
+MODEL_BASE: sentence-transformers/all-MiniLM-L6-v2  # ← Usar este (não precisa de xformers)
+MODEL_OUT: ${DATA_DIR}/models/modernbert-embed-base-biencoder-def-generator
+# Training parameters
+EPOCHS: 5
+BATCH_SIZE: 16
+EVAL_STEPS: 50
+TRAIN_FRAC: 0.9
+SEED: 42

@@ -1,0 +1,71 @@
+type: edu
+custom_name: Inference
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 6216
+        length: 0
+        placeholder_text: "# TODO: create messages"
+        initial_state:
+          length: 23
+          offset: 1770
+        initialized_from_dependency: false
+        encrypted_possible_answer: zK7Tfwa6kPXbXAflA+nObaY3OpA/hk2qf9yrguwM2ozsJDBQmNprW2D/VitPcmy32RweARPkH/v7/sRKkMxoypgEP1xI6f0yUizKeBAC2agc4gTIvxiC8MhWmFgmpDDdKZFbJHN9L2cOG3iHH6+uUA==
+        selected: true
+        status: Unchecked
+      - offset: 6216
+        length: 0
+        placeholder_text: "# TODO: retrieve completion result"
+        initial_state:
+          length: 34
+          offset: 1852
+        initialized_from_dependency: false
+        encrypted_possible_answer: hW0ZKtKyF5iKoGRptcxAxW+VuwEzghEutKEOHXI+p3z46hn/4TZFWIqUT5jcy6rQL7i6HV05ro2/EqpfOyQg/zpaqQQ1LSL9Wq5LYBM/h1XnrTKBJnteTPMdKNYPdGBjpPtRwv3sIC71tO0XxFi7k6/tNAx8PERSlmMMZlH4+h8Xgudpwm34Kj0Ol+W5gi7iGdWfgqExSF8YAM/Cga5cvzZ4Q3ZluEYmiKCWo5iLUgg=
+        selected: false
+        status: Unchecked
+      - offset: 6216
+        length: 0
+        placeholder_text: "# TODO: return completion content (string)"
+        initial_state:
+          length: 42
+          offset: 1964
+        initialized_from_dependency: false
+        encrypted_possible_answer: k+g1DT5SXsbrihtWQN7cteKPscN6wH5Z1tpz68sZbutzMqydtFZRdkrv9rtTjaaE
+        selected: false
+        status: Unchecked
+      - offset: 6216
+        length: 0
+        placeholder_text: "# TODO: build and return baseline prompt"
+        initial_state:
+          length: 40
+          offset: 2561
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7+9wiO6xpbXCkbIm+mXrENel42SOY/oW3ORwJVwFeNBvJ+IJzmsSVKfjWNFgZGA4Wz9pBM/oEOvjekGocQNe0A==
+        selected: false
+        status: Unchecked
+      - offset: 6216
+        length: 0
+        placeholder_text: "# TODO: build and return rag prompt"
+        initial_state:
+          length: 35
+          offset: 2636
+        initialized_from_dependency: false
+        encrypted_possible_answer: xfmXzObgslulvjUvSGHAxhzkcEto+dYTpbMaZiSFuzMbYkOSIDYgrxAErEmIuipTfXfX6mT1aHAY1T7HZJpj+1yndFWVF/JWFMirrwQ1FILoK12tRulHIast72p/Vo1niZ3gBTIm6kHQoMu9hmM00/O44ng7Om9P/TDCvhMQxS4Lr5GiLIFrA2C9uA0qCyNWAKrBWs8bt3JOUJI2XOAsBkGbtzCN7rTQXKhsowPzgJQN/ZnD39dfZ/wbrL1cV3Aat3dRBIqelFBiZjjNyoD8qqC85gpxHryXKyJUVZ7Z8J8EcwlmVUZLGscyy9ijmmCt0+qlt75seTmQLc4T/yEnMcMmTThOg64ZVdLQMiWhjTg=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: run.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
