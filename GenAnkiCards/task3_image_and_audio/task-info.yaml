@@ -1,0 +1,121 @@
+type: edu
+custom_name: Image & Audio Components
+files:
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: audio_generator.py
+    visible: true
+    placeholders:
+      - offset: 8613
+        length: 53
+        placeholder_text: "None # TODO: implement gTTS call for audio generation"
+        initial_state:
+          length: 53
+          offset: 3375
+        initialized_from_dependency: false
+        encrypted_possible_answer: tCG39ARbyIWWXdzkPH9OcVD788hhDQAdJXxVtFuRutUfP2YqMhZurpcjyoUTtHzmcRXlaYAhfZhCIWzAkqQX8g==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: images/knock_9dd72e66bc2e.png
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: images/boring_b64047f6d54a.png
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: images/advance_6a2fe5faefa2.png
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: audio/boring_0ea4648be678.mp3
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: audio/knock_b6f1f219656e.mp3
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: audio/advance_669eacdd47e3.mp3
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: audio/minced_meat_381752298b42.mp3
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: images/minced_meat_27aeabbd5d85.png
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: main.py
+    visible: true
+    learner_created: false
+  - name: data/flashcards.sqlite
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: image_generator.py
+    visible: true
+    learner_created: true
+  - name: schemas.py
+    visible: true
+    learner_created: true
+  - name: images/knock_3d9242224f7e.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: images/minced_meat_1c846149119e.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: images/advance_cb06ad2c1712.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: images/boring_c0b5be388fae.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: audio/minced_meat_4612512e17e0.mp3
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: audio/knock_9ccae3a801bf.mp3
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: audio/advance_ecc06dbc46c9.mp3
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: audio/boring_80d29c0e54ff.mp3
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: images/knock_3e93c634bb1b.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: images/advance_fb73cdd8a86d.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: images/minced_meat_d87c7878e59b.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: images/boring_bf4b2a85e1a8.png
+    visible: true
+    is_binary: true
+    learner_created: true
+status: Unchecked
+record: -1

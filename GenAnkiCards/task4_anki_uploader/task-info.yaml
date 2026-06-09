@@ -1,0 +1,29 @@
+type: edu
+custom_name: Integration to Anki
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 3552
+        length: 0
+        placeholder_text: "# TODO: add example_translation, definition and mnemonic to\
+      \ Anki card"
+        initial_state:
+          length: 69
+          offset: 3465
+        initialized_from_dependency: false
+        encrypted_possible_answer: UnWaaVA6PHqW0uyrli2GvGgjIayR+4K8Y8eGkSWMvu/zhJLKFFpzaV7Sy5bdsbBlDCcOkeaa+lO+PauYfCOb71R4P46XFlZQpVYoE/6OjbPLe+XuH+Nanm1rRNF224sCmpo/bjsZ33hGDY8gKK4bkxSUdq6D440LBif02ZwzoENAjuAhVwWt42A2Y2yP4/Wzw8xH1nomyg9r0Tm2/w8F8P3Ebo8KMb67FnUGaEQKf0eetbUertYToATRKH1hBl8yVr86yhc8tauQG64oKuadX4yK0kVkWb4S8RDNz2+Bw3f0m03UN5BzX5NhaJx7yKHuFnHDItzFSvNSon479rPcEQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
