@@ -1,0 +1,29 @@
+type: theory
+files:
+  - name: main.py
+    visible: false
+    learner_created: false
+  - name: base_llama.py
+    visible: true
+    learner_created: false
+  - name: config.py
+    visible: true
+    learner_created: false
+  - name: tokenizer.py
+    visible: true
+    learner_created: false
+  - name: utils.py
+    visible: true
+    learner_created: false
+  - name: run_llama.py
+    visible: true
+    learner_created: false
+  - name: task.md
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: true
+    learner_created: true
+status: Solved
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,51 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 1668
+        length: 45
+        placeholder_text: "pass # TODO: implement normed rms calculation"
+        initial_state:
+          length: 45
+          offset: 1584
+        initialized_from_dependency: false
+        encrypted_possible_answer: /pn96CDhW9hVeauF2BIL4uySt5erHGaYq7v1l9ZGINBEXb3C+8gEOcJg0tG8Qdi5NVGMyIfgxnUUMJsyhZ4oSjPMMLZzSE8UOkmkMoS2EtwyN8nEPnHxC+1pQsIAoi3qHhg8nIlbzzlT/WmFNRnFmyiu+VRnTKoE4Uq6rymxM0I=
+        selected: false
+        status: Unchecked
+      - offset: 4761
+        length: 57
+        placeholder_text: "pass # TODO: implement query_key_value scores computation"
+        initial_state:
+          length: 57
+          offset: 3876
+        initialized_from_dependency: false
+        encrypted_possible_answer: PIMxX7iydQob+W86tUoCOj2ka7YswraXVdDLVGRAtbENC6RdsHnxELxtXoJmsohZwrWKeO0R7drF/iNgms6O5QhHKh7KAJylZwBUnPLkFc8Uaco7TKIbwgvpasSsueQDOh0takOGV9i2Uv7T0GBE+PieaMByCvRHzsNftXxptwgqRZQ+rI7Fack8OMp3gdiGaQVBPC8sjX1J69G1diPKWfWnu12s3v+VPrZ2vUcDvHikIfGpgnshFa2S7b364AqwXTB6grovnhtrLXYzsNF5cWLWrno8uj/NOpoZNBLQWCeo+evFrhXQA4VCXH1Y2AV2oLtn6N6h9H+seBSibwkYWfm86+ydZyfEMD8sfjWRMc2tXXtCcpjTYizvR0Zj9tQzVLCQ8MF3JhPpP/lhF1NMpGTz6OzF8jGPQhmNlLlfu1j6vLElAcb6oJC6iCwoq+oQziO/VIQiQpm6kp6sOAyV65Gfzx9+iZPAPKJoSzy5Oe/86MQ/pT1ki5/jsRTe/h3Wyyl7xjK2WhwAa2XE7Pn+XWmvnpnr5Tn4fvh1oZ8KKSaG7cLfnFsM2lTc56K9iEs4R2b4Tx7wlsBnQ761ABV8cxOunj6k8Rt8FG+FNKf4qGFfeyTwp3K74BqSw8i46ZP+rrP1R3YhspNKqY8OKpNfEf3rX1p+WH5NrQce2wWbKAMWhnn+vRBEJV3wc0Byl2xTQta/XcFbme8iicLs7Jp7wy52rIaxBtgyrJ9NFDSxjrJyNZwWv0MODwWaLwAABMXMiQ7/LldtguuwUWJQIdccgUJ/wpJeaXdFE1AgHjM/z8c=
+        selected: false
+        status: Unchecked
+      - offset: 9822
+        length: 45
+        placeholder_text: "pass # TODO: implement forward pass for Llama"
+        initial_state:
+          length: 45
+          offset: 8271
+        initialized_from_dependency: false
+        encrypted_possible_answer: w3bMDBwDkdFheOOQGI8uvzWSLCSVJH3zcdl5wlmd4SnPZL+Je84qiVEsQC/dqZ2U6hssttyogG+gd45IJzyBQBUKNaqlsCM8TYWgJCfxOcjylSZa0JUdbRiM/5okuL6j9eUi59Nnekj82t8TQMBBjmUGHK8LSokLeEXAPeTZ/X8YM1MAtrsmCIXBNHkjhF7LuTWzRHRDLVk2ar7xLqxRlfr4H3OoGDHjyxBTIhqS3MioF2XVT8SDulpurpOUW65zm7qnGHmNlB850P/l/FSfhHitB7+mI1WCEtm+SlMKj04dMonvST/abQf0H6KNpgpeK52CQ5M8yzX8OwBZfI6J2Jln08N7jHQ/91058pU6m5A5OCEPfvNvV70AkmZrvjXpuH3n2jZZBNrtgN8QExlfHIFsSyx7czZWIC7o3CgStZh525dYtaafROd4slO/EQLWZh0F65lRzGSls9ln2mOCXtD3FksKQ0gDxvJQculauNbexHPhiwOtFyuuNCNtmmiusLZE03+k4GQIm5U9OuxQWK64zL98FuHdBiKNRwy4auR+OwXRlEN3O4k7WsMH3r2lce90H6Sw9XtEU4t1l4LIpL5QlqJUW8M5eTZwT26NiH19C+BaD26Jq77HGKBWOdCc5ZS8MJGTCRT4h7dFBjtBetP/Ml50GKMxtllgTpXbvmEg4N8nWDV8y7a77104rk8ZoxcMoHoMZ0pE6x+gKy0O/EN+EXR9F7/4E4I9wo5NFSsjtoLLnttmi2IaMUa6To+NNA+YU765XIQE6H92Ho2VjkCl12QwvwXE6Vc8/Kd6UdRUeTxx4fuuSCOoGszsLBwZSGDs7vOHRJoDcXdXsJSp4Q==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: LLaMAScheme.png
+    visible: false
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1

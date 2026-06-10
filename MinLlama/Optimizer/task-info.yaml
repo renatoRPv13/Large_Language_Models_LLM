@@ -1,0 +1,63 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 12330
+        length: 103
+        placeholder_text: "# TODO: implement state creation and parameters initialization:\
+      \ step, momentum_t, rms_t, beta_1, beta_2"
+        initial_state:
+          length: 103
+          offset: 1645
+        initialized_from_dependency: false
+        encrypted_possible_answer: m8oTFK5mcflJORKADextyOuXzZjA7JtOuyH6gskQJ9Oy3KJxQenNTQRJta+zXXH4/5py33r9jGjh9Y824oCF8bKiHb5iide1M93DVuckOpWmwAyD35+QdRawJ7L76CPu9B4Tm+NGDJogO6oj6YPPslXgKwNvX0NUlZ5QNPMgdArFGJFeknwaGRuZmDjwFsbCSvdB+Sfsb1s6Lzhi2TX+lMIcD7yw+L//FLIws8T9k2g8lU4GOKit1z07tdr3ZT66lGz/pLSePIYzUI+m8joIj9j1u7WeuwTsBI1hRKwEZ0tE9s5K7DjPNapYmzq7N+1bPYnugNXm7xJOoVfZ743N/baDTwvjatdtpby8f9CUta/jy1RkqRqA5k3vhbDYoRKxJ3ZwxD10JU1gL4jOLeyA3uGvDg2/bJK4NQ3FBsSJgD4wukea7l5aWOZBlS9fOYH5hAy7mcfbwCx6hCtGZTUBJ7BqfRB5TIoaunScE+j8u7k=
+        selected: false
+        status: Unchecked
+      - offset: 12565
+        length: 56
+        placeholder_text: "# TODO: update first and second moments of the gradients"
+        initial_state:
+          length: 56
+          offset: 1872
+        initialized_from_dependency: false
+        encrypted_possible_answer: Gyg2JVTfp5tkEo8jeaEaN4c/tf3yeHK44Pkbzb1aJ5KE69kuog5xA448aRt0l71eKYTz7597YzZq/lSPgIMFBk7qgNkMCX7ng/r7WdTT6MY3DUpiORGFFd1UTn31S7f7tURcTI9XCPYkowYGBNqW1NPMcvcTLZ2yZt+KcHTlyIEf3DU4BgTomUd4TvRhM6eCDN7IGRfW2UjDmSKlGLAJ4lMOXN0UU+Wr5+JwJAXrAlKMJRPHjsmvQarv+n8O9hOIiGy9bhtFeDb1p/Fen6OgrGusf5zvbfoLvLa3PogD7k0=
+        selected: false
+        status: Unchecked
+      - offset: 12642
+        length: 126
+        placeholder_text: |-
+          # TODO: Bias correction
+          # Please note that we are using the "efficient version" given in
+          # https://arxiv.org/abs/1412.6980
+        initial_state:
+          length: 122
+          offset: 1946
+        initialized_from_dependency: false
+        encrypted_possible_answer: v5+H4r5aarX6VxQyFvwxdzUHrrBg8d8I5B6W6k2v0q5Qp/29MA6Bvw++aEpNMezTtA1/TWJV30lmcKcVEUubGNB3s86CsKZ7F+b877CGTQBoIRnwjh1vWNKkNBEls5TkEKi9a/3vxazU7ltVcgZ8NtIhVOch9HAt++Q44pUAOFGOCsChcMMCMwzlaHnGmBN+y6hfZ08VvjWdL5uENfJaq6UFiOHWfixBoBpJVrIfPbmdh3riROOx6HJGbC2MuuYzlrvXUQdIsRceoP8M2788Qg==
+        selected: false
+        status: Unchecked
+      - offset: 12918
+        length: 141
+        placeholder_text: |-
+          # TODO: Add weight decay after the main gradient-based updates
+          # Please note that the learning rate should be incorporated into this update
+        initial_state:
+          length: 139
+          offset: 2210
+        initialized_from_dependency: false
+        encrypted_possible_answer: d3BPFaSLxXY/JU1nv9EXcvPPy9lHGo7kYI7UFwYhSoTBIyfOlYjpv0rlx9ZxHgSo3yzD6TZ/Ay4tdNAVuOZWjnH7PVtcr5NCIvE/Mq6087Zf3sxQz77NFdeeyeS/lP+3
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

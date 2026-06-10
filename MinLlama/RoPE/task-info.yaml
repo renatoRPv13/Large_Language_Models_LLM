@@ -1,0 +1,39 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 4418
+        length: 268
+        placeholder_text: "# TODO: First, compute the trigonometric values in the second\
+      \ and fourth columns in slide 22 (linked above)"
+        initial_state:
+          length: 107
+          offset: 2728
+        initialized_from_dependency: false
+        encrypted_possible_answer: d7qPTZnJN7JzIV8a0up0KpruewU24IOg5RoZjpMbrGaZ49RfyrbnZJ3wbYCxoJTJfiftZTNmsjfzcchyF+QiGybY4JZruifdD0UszKO+CE32bSxuaAFXbstxH2VOqNvt95KjCkepQM2E4T9fXlW035BLLyTMJQVQXZuHIR+g7UqXVGGpmgUlJFFX8Dwr+zRi1WsmeVD2MaxwOt6yQ28RIhuVEnsrCSGMqr3tMRwkQLjypwEZmVnurOYpDkp/r3XV4lJBhF0E5kKyg6V+R1J/4EL1MxFHgus7Ec9WupK7S55kRH46NPQpfFhoGQwVrQ5IqFz0D8293tMmQgrxn8vZbEnLVx+SzWaUSnDeWYuZTUkHdw/UpF0Sy8pshKobnPkTIxNCh3oSY+sSLfigd746pBjEFDbfUnZpBx7oPmlUDY9dKwhRJ1rg/tV2vU38WI8k
+        selected: true
+        status: Unchecked
+      - offset: 4692
+        length: 112
+        placeholder_text: "# TODO: Then, combine these trigonometric values with the tensors\
+      \ query_real, query_imag, key_real, and key_imag"
+        initial_state:
+          length: 112
+          offset: 2841
+        initialized_from_dependency: false
+        encrypted_possible_answer: GN4IBBqg9RqkwhoNWAUxn4zY0mJmV8R0DZ/PO0Q3d1jtNi3SnqpE4Ce9cFvrPP9rD2DZkvvm1GLiHB9fWX/JiTX0tgcK3g3mufCb+9SNJKVZdHQhtq7IvvGFxQUHeOFBtlUeM1TDxQT34bkSfMPy5fhuj6eNfyLdBvr8Rh5GHVf2L9awlN+nHFllF2SKiJTXmNCtHcm0jsKWKWbAqp+YN/8/DvXwQ97138FfNkaCFeepl3I8run4fT3+NktIbySiWhxiu1fJ6EZJC8DDg8yp7guuvXBZQAAeVX8mDYXILGKqz4xKgJX0bH9wecTicCadhCxDtNUJhIbI5bidgPu2iIQ3Me9UBKU5bZnNJZY++SdWaZ+9IqFuhO0hfWzBjm54q8XftUGtr4/Wd1EkCFWwO8eBYUe3xErPnI/sop0ZgfxuFir4XuZKNq8p4Dx5GAMMZSqVPCyX+gUzYtCl9S1xRou8myfk9Bmx7fEd9W/8ZlPfpCB1MgGzizFmaTsNzlXRjLL9tG1EUhpgzdEoeTKVHnf+7GKL3gT3Tdj8iKveB1Vv56a7khpD07zZcrnhqbld863JurMo6tcuYt5Fm4ieOkePDpQtIAGb6Md2bZrVxfxvpWQZdq7HX6UfzOu2yNpBlhLrWZot1vITZ04BFrguW/ZKu2g/MFnBa+buxWI5maM8fZvmvkx7Rvjv8mOT6cllbpJ2XkDY6IEzP2PvE2o2ID1rtp7V9eGsHZAt9lmQKQp8x9XstibEXJzjcYc6coQ5NsvtM3NNggQT2zeJ/2g9EWYhwNgNSoQHf6/I81XIG5iX0NgUcJ4tESr2A8WevjTNhJnyi8psbKP4lNO3iJB2ckHCubTLGLAUZU0/i7GPWuSyfjUXzINz4v3rLaJugWRf2iYdfbLGMfodPEg9IGaGoawUZ/Ae98EF5xGmnQ9QDL3O3DN1VMVjA1tsq1GcrO5tADR2bDhX0tcakMUHKQcVExAjSQDAVWzyN3kcKVNMv70AqNX+bcLb3LEp0azLO0gPzjNdMsVKwy+ucWhUkaZ+Ib6U9q5fIiZN4BEDW/Fcm3T2RZfp3yY9LSaChMyQNmEak9zoVH9YUmkhSNpzXY9B4A==
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
