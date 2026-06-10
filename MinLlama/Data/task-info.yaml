@@ -1,0 +1,35 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: cfimdb-dev.txt
+    visible: true
+    learner_created: false
+  - name: cfimdb-label-mapping.json
+    visible: true
+    learner_created: false
+  - name: cfimdb-test.txt
+    visible: true
+    learner_created: false
+  - name: cfimdb-train.txt
+    visible: true
+    learner_created: false
+  - name: sst-dev.txt
+    visible: true
+    learner_created: false
+  - name: sst-label-mapping.json
+    visible: true
+    learner_created: false
+  - name: sst-test.txt
+    visible: true
+    learner_created: false
+  - name: sst-train.txt
+    visible: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true
